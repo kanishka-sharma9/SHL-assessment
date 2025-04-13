@@ -1,0 +1,14 @@
+crawl4ai
+langchain
+langchain_groq
+langchain_community
+chroma
+chromadb
+requests_html
+lxml[html_clean]
+gpt4all
+fastapi
+requests
+uvicorn
+beautifulsoup4
+streamlit

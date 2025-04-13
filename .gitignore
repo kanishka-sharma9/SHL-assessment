@@ -1,0 +1,8 @@
+.vercel
+.env
+venv
+db
+.vscode
+__pycache__
+test.ipynb
+try_api.py
